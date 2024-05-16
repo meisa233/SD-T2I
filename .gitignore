@@ -1,2 +1,5 @@
 models/
 *.png
+__pycache__/
+*.log
+*.out
